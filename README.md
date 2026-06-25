@@ -1,6 +1,6 @@
-https://medium.com/@yaswanth.arumulla/how-to-deploy-a-full-microservices-e-commerce-application-11-services-on-aws-eks-af1ba4c87ccf
+Deploying a production-ready microservices e-commerce platform on Amazon EKS (Elastic Kubernetes Service) requires orchestrating multiple services, CI/CD pipelines, observability tools, and infrastructure automation.
 
-YouTube: https://youtu.be/N9JqIV7eM-8?si=ep4HG0y5qK87PyQp
+
 
 
 ```bash
